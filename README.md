@@ -1,16 +1,13 @@
 [A4-3] (https://prezi.com/view/Ry5mVQexn9oiURFBH9QM/)
 
-<!--
-## ![A6-1](https://nimbus-screenshots.s3.amazonaws.com/s/31c59c7c689afb721fa60bf9522d57bc.png) -->
-
 ## Edit a file "main.cpp"
 
 > Complete the program
 >
 > > Do not change the file name
 
-
 ### Rewrite the following program. Use a switch statement instead of the if/else if statement.
+
 ```
 #include <iostream>
 using namespace std;
@@ -36,4 +33,3 @@ int main()
   return 0;
 }
 ```
-
